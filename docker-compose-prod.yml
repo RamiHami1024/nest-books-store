@@ -1,0 +1,3 @@
+services:
+  books:
+    command: nest start
